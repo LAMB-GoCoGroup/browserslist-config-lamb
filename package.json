@@ -1,0 +1,19 @@
+{
+  "name": "browserslist-config-lamb",
+  "version": "1.0.0",
+  "description": "LAMB share browserslist configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAMB-GoCoGroup/browserslist-config-lamb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAMB-GoCoGroup/browserslist-config-lamb/issues"
+  },
+  "homepage": "https://github.com/LAMB-GoCoGroup/browserslist-config-lamb#readme"
+}
